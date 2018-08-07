@@ -1,0 +1,12 @@
+{
+    "presets": [
+        "env",
+        "react"
+    ],
+    "plugins": [
+        "styled-jsx/babel",
+        "transform-object-rest-spread"
+    ],
+    "sourceMaps": true,
+    "retainLines": true
+}

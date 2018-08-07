@@ -1,0 +1,1 @@
+npm install --save axios babel-core babel-loader babel-plugin-transform-object-rest-spread babel-plugin-transform-runtime babel-polyfill babel-preset-env babel-preset-react babel-runtime lodash mocha mysql2 npm-run-all react react-dom react-redux react-router-dom redux redux-devtools-extension redux-thunk uglifyjs-webpack-plugin url-loader webpack webpack-cli path
